@@ -4,7 +4,7 @@
 FILEIN = "/home/archjun/Downloads/EngKor.txt"
 FILEOUTeng = "/home/archjun/Downloads/EngOnly.txt"
 FILEOUTkor = "/home/archjun/Downloads/KorOnly.txt"
-WHITELIST = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~ \t\n\r\x0b\x0c“”'
+WHITELIST = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~ \t\n\r\x0b\x0c“”’'
 ENGLISH = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 
 import doctest
